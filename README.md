@@ -21,20 +21,23 @@ Esta Documentação será atualizada a cada revisão com o stakeholder do Projet
 # Requisitos Funcionais
 -O programa deve permitir a criação de múltiplos eventos.
 
--Os eventos devem ser armazenados durante toda a execução do programa.
+- Os eventos devem ser armazenados durante toda a execução do programa.
 
--Durante a venda do ingresso, o usuário deve poder escolher o evento desejado.
+- Durante a venda do ingresso, o usuário deve poder escolher o evento desejado.
 
--O programa deve permitir a busca de um evento pelo nome.
+- O programa deve permitir a busca de um evento pelo nome.
 
--Deve ser possível excluir um evento já criado.
+- Deve ser possível excluir um evento já criado.
 
--programa deve permitir atualizar um evento criado, modificando a data e o local (os demais dados devem ser preservados).
+- programa deve permitir atualizar um evento criado, modificando a data e o local (os demais dados devem ser preservados).
 
--Deve ser possível exibir todos os eventos cadastrados.
+- Deve ser possível exibir todos os eventos cadastrados.
 
 # Requisitos Não Funcionais
--O sistema deve ser capaz de lidar eficientemente com um grande volume de eventos e operações, garantindo tempos de resposta rápidos para a criação, atualização, exclusão e exibição de eventos, mesmo em condições de carga elevada.
--O tempo de persistência dos dados em arquivo deve ser otimizado, minimizando o impacto no desempenho geral do sistema durante a execução e encerramento do programa.
--A interface de texto deve ser responsiva e fluída, proporcionando uma experiência de usuário ágil, mesmo em terminais com recursos limitados.
--O tratamento de exceções deve ser eficiente, garantindo que as operações do sistema não sejam prejudicadas por situações de erro inesperadas, e que as mensagens de erro sejam claras e informativas para o usuário.
+- O sistema deve ser capaz de lidar eficientemente com um grande volume de eventos e operações, garantindo tempos de resposta rápidos para a criação, atualização, exclusão e exibição de eventos, mesmo em condições de carga elevada.
+
+- O tempo de persistência dos dados em arquivo deve ser otimizado, minimizando o impacto no desempenho geral do sistema durante a execução e encerramento do programa.
+
+- A interface de texto deve ser responsiva e fluída, proporcionando uma experiência de usuário ágil, mesmo em terminais com recursos limitados.
+
+- O tratamento de exceções deve ser eficiente, garantindo que as operações do sistema não sejam prejudicadas por situações de erro inesperadas, e que as mensagens de erro sejam claras e informativas para o usuário.
