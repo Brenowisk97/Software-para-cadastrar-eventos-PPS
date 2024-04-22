@@ -14,9 +14,9 @@ Luiza precisa da flexibilidade de atualizar ou excluir eventos conforme necessá
 Para garantir uma visão geral completa de todos os eventos, Luiza quer poder visualizar uma lista de todos os eventos cadastrados no sistema.
 
 # 2-Levantamento dos Requisitos
-Optamos por utilizar a técnica de entrevistar o stakeholder, pois a entrevista facilita o contato direto entre o desenvolvedor e o stakeholder do produto, permitindo a obtenção de informações tácitas do entrevistado e proporcionando, consequentemente, uma compreensão mais profunda dos requisitos.
+Optamos por utilizar a técnica de entrevistar a stakeholder, pois a entrevista facilita o contato direto entre o desenvolvedor e o stakeholder do produto, permitindo a obtenção de informações tácitas do entrevistado e proporcionando, consequentemente, uma compreensão mais profunda dos requisitos.
 
-Esta Documentação será atualizada a cada revisão com o stakeholder do Projeto(Luiza), o primeiro encontro foi realizado em 16/04/2024 no qual o principal objetivo foi o levantamento dos requisitos do projeto e o próximo está marcado para 30/04/2024 no qual o principal objetivo será a entrega de uma versão útil do programa que possibilitará um feedback do stakeholder para possíveis alterações e melhoras do programa.
+Esta Documentação será atualizada a cada revisão com a stakeholder do Projeto(Luiza), o primeiro encontro foi realizado em 16/04/2024 no qual o principal objetivo foi o levantamento dos requisitos do projeto e o próximo está marcado para 30/04/2024 no qual o principal objetivo será a entrega de uma versão útil do programa que possibilitará um feedback do stakeholder para possíveis alterações e melhoras do programa.
 
 # Requisitos Funcionais
 -O programa deve permitir a criação de múltiplos eventos.
