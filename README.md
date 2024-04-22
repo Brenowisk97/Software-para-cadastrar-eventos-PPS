@@ -20,11 +20,17 @@ Esta Documentação será atualizada a cada revisão com o stakeholder do Projet
 
 # Requisitos Funcionais
 -O programa deve permitir a criação de múltiplos eventos.
+
 -Os eventos devem ser armazenados durante toda a execução do programa.
+
 -Durante a venda do ingresso, o usuário deve poder escolher o evento desejado.
+
 -O programa deve permitir a busca de um evento pelo nome.
+
 -Deve ser possível excluir um evento já criado.
+
 -programa deve permitir atualizar um evento criado, modificando a data e o local (os demais dados devem ser preservados).
+
 -Deve ser possível exibir todos os eventos cadastrados.
 
 # Requisitos Não Funcionais
