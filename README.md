@@ -19,7 +19,7 @@ Optamos por utilizar a técnica de entrevistar a stakeholder, pois a entrevista 
 Esta Documentação será atualizada a cada revisão com a stakeholder do Projeto(Luiza), o primeiro encontro foi realizado em 16/04/2024 no qual o principal objetivo foi o levantamento dos requisitos do projeto e o próximo está marcado para 30/04/2024 no qual o principal objetivo será a entrega de uma versão útil do programa que possibilitará um feedback do stakeholder para possíveis alterações e melhoras do programa.
 
 # Requisitos Funcionais
--O programa deve permitir a criação de múltiplos eventos.
+- O programa deve permitir a criação de múltiplos eventos.
 
 - Os eventos devem ser armazenados durante toda a execução do programa.
 
