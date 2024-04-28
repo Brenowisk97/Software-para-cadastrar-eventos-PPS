@@ -41,3 +41,6 @@ Esta Documentação será atualizada a cada revisão com a stakeholder do Projet
 - A interface de texto deve ser responsiva e fluída, proporcionando uma experiência de usuário ágil, mesmo em terminais com recursos limitados.
 
 - O tratamento de exceções deve ser eficiente, garantindo que as operações do sistema não sejam prejudicadas por situações de erro inesperadas, e que as mensagens de erro sejam claras e informativas para o usuário.
+
+- # 3-Documentação dos Requisitos
+ Decidimos por usar histórias de usuário com critérios de aceitação para descrever os requisitos do programa de cadastro de eventos de forma mais adequada. Isso se deve à necessidade de detalhar os requisitos apresentados em cada história, permitindo uma compreensão clara das funcionalidades e comportamentos esperados do sistema.
