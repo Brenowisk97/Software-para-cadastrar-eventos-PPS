@@ -44,3 +44,11 @@ Esta Documentação será atualizada a cada revisão com a stakeholder do Projet
 
 - # 3-Documentação dos Requisitos
  Decidimos por usar histórias de usuário com critérios de aceitação para descrever os requisitos do programa de cadastro de eventos de forma mais adequada. Isso se deve à necessidade de detalhar os requisitos apresentados em cada história, permitindo uma compreensão clara das funcionalidades e comportamentos esperados do sistema.
+
+# História 1: Criação de Eventos
+Como usuário do sistema, eu gostaria de criar múltiplos eventos, para que eu possa organizar e gerenciar diferentes atividades.
+Critérios de Aceitação: O usuário deve ter a opção de criar um novo evento no sistema, O sistema deve permitir que o usuário insira informações detalhadas sobre o evento, como data, local, tipo de evento e informações adicionais relevantes e Após a criação, o evento deve ser armazenado de forma persistente no sistema.
+
+# História 2: Venda de Ingressos
+Como usuário do sistema durante a venda de ingressos, eu gostaria de poder escolher o evento desejado, para que eu possa comprar ingressos para eventos específicos.
+Critérios de Aceitação: Durante o processo de venda de ingressos, o sistema deve exibir uma lista de eventos disponíveis para escolha, o usuário deve ser capaz de selecionar o evento desejado a partir da lista apresentada, após a escolha do evento, o sistema deve prosseguir com o processo de venda de ingressos.
