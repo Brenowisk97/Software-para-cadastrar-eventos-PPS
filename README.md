@@ -47,7 +47,7 @@ Esta Documentação será atualizada a cada revisão com a stakeholder do Projet
 
 # História 1: Criação de Eventos
 Como usuário do sistema, eu gostaria de criar múltiplos eventos, para que eu possa organizar e gerenciar diferentes atividades.
-Critérios de Aceitação: O usuário deve ter a opção de criar um novo evento no sistema, O sistema deve permitir que o usuário insira informações detalhadas sobre o evento, como data, local, tipo de evento e informações adicionais relevantes e Após a criação, o evento deve ser armazenado de forma persistente no sistema.
+Critérios de Aceitação: O usuário deve ter a opção de criar um novo evento no sistema, o sistema deve permitir que o usuário insira informações detalhadas sobre o evento, como data, local, tipo de evento e informações adicionais relevantes e após a criação, o evento deve ser armazenado de forma persistente no sistema.
 
 # História 2: Venda de Ingressos
 Como usuário do sistema durante a venda de ingressos, eu gostaria de poder escolher o evento desejado, para que eu possa comprar ingressos para eventos específicos.
@@ -55,7 +55,7 @@ Critérios de Aceitação: Durante o processo de venda de ingressos, o sistema d
 
 # História 3: Busca de Eventos
 Como usuário do sistema, eu gostaria de buscar um evento pelo nome, para que eu possa encontrar rapidamente informações específicas sobre um evento.
-Critérios de Aceitação: O sistema deve fornecer uma funcionalidade de busca onde o usuário pode inserir o nome do evento desejado  e após a busca, o sistema deve exibir os eventos correspondentes ao nome inserido pelo usuário.
+Critérios de Aceitação: O sistema deve fornecer uma funcionalidade de busca onde o usuário pode inserir o nome do evento desejado e após a busca, o sistema deve exibir os eventos correspondentes ao nome inserido pelo usuário.
 
 # História 4: Exclusão de Eventos
 Como usuário do sistema, eu gostaria de excluir um evento já criado, para que eu possa remover eventos desnecessários ou cancelados.
