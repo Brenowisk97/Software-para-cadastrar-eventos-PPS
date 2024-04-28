@@ -52,3 +52,19 @@ Critérios de Aceitação: O usuário deve ter a opção de criar um novo evento
 # História 2: Venda de Ingressos
 Como usuário do sistema durante a venda de ingressos, eu gostaria de poder escolher o evento desejado, para que eu possa comprar ingressos para eventos específicos.
 Critérios de Aceitação: Durante o processo de venda de ingressos, o sistema deve exibir uma lista de eventos disponíveis para escolha, o usuário deve ser capaz de selecionar o evento desejado a partir da lista apresentada, após a escolha do evento, o sistema deve prosseguir com o processo de venda de ingressos.
+
+# História 3: Busca de Eventos
+Como usuário do sistema, eu gostaria de buscar um evento pelo nome, para que eu possa encontrar rapidamente informações específicas sobre um evento.
+Critérios de Aceitação: O sistema deve fornecer uma funcionalidade de busca onde o usuário pode inserir o nome do evento desejado  e após a busca, o sistema deve exibir os eventos correspondentes ao nome inserido pelo usuário.
+
+# História 4: Exclusão de Eventos
+Como usuário do sistema, eu gostaria de excluir um evento já criado, para que eu possa remover eventos desnecessários ou cancelados.
+Critérios de Aceitação: O sistema deve fornecer uma opção para excluir um evento existente e ao selecionar a opção de exclusão, o sistema deve solicitar a confirmação do usuário antes de remover permanentemente o evento.
+
+# História 5: Atualização de Eventos
+Como usuário do sistema, eu gostaria de atualizar um evento já criado, modificando a data e o local, para que eu possa corrigir informações erradas ou alterar detalhes do evento.
+Critérios de Aceitação: O sistema deve permitir que o usuário selecione o evento que deseja atualizar , após a seleção, o usuário deve ter a opção de modificar a data e/ou local do evento, as demais informações do evento devem ser preservadas sem alterações.
+
+# História 6: Exibição de Eventos
+Como usuário do sistema, eu gostaria de visualizar uma lista de todos os eventos cadastrados, para que eu possa ter uma visão geral completa das atividades.
+Critérios de Aceitação: O sistema deve fornecer uma funcionalidade que exiba todos os eventos cadastrados e a lista de eventos deve ser apresentada de forma clara e organizada, mostrando informações relevantes de cada evento.
