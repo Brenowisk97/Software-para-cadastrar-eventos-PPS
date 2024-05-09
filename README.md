@@ -1,6 +1,6 @@
 # Programa de Cadastro de Eventos-PPS
 # 1-Entendimento do problema e definição do Escopo
-Luiza é gerente de uma empresa de eventos que organiza uma variedade de atividades, desde pequenas reuniões corporativas até grandes festivais e shows. Ela está enfrentando dificuldades para acompanhar o gerenciamento de todos os eventos de forma manual. As planilhas estão se tornando confusas e propensas a erros, e a falta de um sistema centralizado está afetando a eficiência das operações. Luiza decidiu procurar um desenvolvedor para criar um programa sob medida que atenda às necessidades específicas de sua empresa. Ela deseja uma solução que permita: Criação e Armazenamento de Eventos, Venda de Ingressos, Busca de Eventos, Atualização e Exclusão de Eventos e Exibição de Eventos.
+Luiza é gerente de uma empresa de eventos que organiza uma variedade de atividades, desde pequenas reuniões corporativas até grandes festivais e shows. Ela está enfrentando dificuldades para acompanhar o gerenciamento de todos os eventos de forma manual. As planilhas estão se tornando confusas e propensas a erros, e a falta de um sistema centralizado está afetando a eficiência das operações. Luiza decidiu procurar um desenvolvedor para criar um programa sob medida que atenda às necessidades específicas de sua empresa. Ela deseja uma solução que permita: Criação e Armazenamento de Eventos, Venda de Ingressos, Busca de Eventos, Atualização e Exclusão de Eventos e Exibição de Eventos. O Software não terá uma interface gráfica, sendo acessado apenas por meio de linhas de comando. Isso significa que todas as interações e operações serão realizadas por meio de comandos de texto, sem uma interface visual.
 
 # Criação e Armazenamento de Eventos
 Luiza quer poder criar e armazenar informações detalhadas sobre cada evento, incluindo data, local, tipo de evento e informações adicionais relevantes.
@@ -19,28 +19,28 @@ Optamos por utilizar a técnica de entrevistar a stakeholder, pois a entrevista 
 Esta Documentação será atualizada a cada revisão com a stakeholder do Projeto(Luiza), o primeiro encontro foi realizado em 16/04/2024 no qual o principal objetivo foi o levantamento dos requisitos do projeto e o próximo está marcado para 30/04/2024 no qual o principal objetivo será a entrega de uma versão útil do programa que possibilitará um feedback do stakeholder para possíveis alterações e melhoras do programa.
 
 # Requisitos Funcionais
-- O programa deve permitir a criação de múltiplos eventos.
+- O programa deve permitir que o usuário consiga criar múltiplos eventos.
 
-- Os eventos devem ser armazenados durante toda a execução do programa.
+- Os eventos devem ser armazenados durante toda a execução do programa em um arquivo Txt.
 
-- Durante a venda do ingresso, o usuário deve poder escolher o evento desejado.
+- O programa deve permitir que o usuário consiga vender ingressos.
 
 - O programa deve permitir a busca de um evento pelo nome.
 
 - Deve ser possível excluir um evento já criado.
 
-- programa deve permitir atualizar um evento criado, modificando a data e o local (os demais dados devem ser preservados).
+- O programa deve permitir atualizar um evento criado, modificando a data e o local (os demais dados devem ser preservados).
 
-- Deve ser possível exibir todos os eventos cadastrados.
+- Deve ser possível exibir todos os eventos cadastrados, exibindo nome, local e data do evento.
 
 # Requisitos Não Funcionais
-- O sistema deve ser capaz de lidar eficientemente com um grande volume de eventos e operações, garantindo tempos de resposta rápidos para a criação, atualização, exclusão e exibição de eventos, mesmo em condições de carga elevada.
+- O sistema deve ser capaz de lidar eficientemente com um grande volume de eventos e operações, definido como mais de 100 operações e eventos simultâneos, garantindo tempos de resposta rápidos para a criação, atualização, exclusão e exibição de eventos, mesmo em condições de carga elevada, definido como mais de 500 solicitações por minuto.
 
-- O tempo de persistência dos dados em arquivo deve ser otimizado, minimizando o impacto no desempenho geral do sistema durante a execução e encerramento do programa.
+- O tempo de persistência dos dados em arquivo deve ser otimizado, utilizando estruturas de dados eficientes para agilizar operações de leitura e escrita. Com o objetivo de minimizar o impacto no desempenho geral do sistema durante a execução e encerramento do programa.
 
-- A interface de texto deve ser responsiva e fluída, proporcionando uma experiência de usuário ágil, mesmo em terminais com recursos limitados.
+- A interface de texto deve ser responsiva e fluída nas linhas de comando, proporcionando uma experiência de usuário ágil, mesmo em terminais com recursos limitados.
 
-- O tratamento de exceções deve ser eficiente, garantindo que as operações do sistema não sejam prejudicadas por situações de erro inesperadas, e que as mensagens de erro sejam claras e informativas para o usuário.
+- O tratamento de exceções deve ser eficiente, garantindo que as operações do sistema não sejam prejudicadas por situações de erro inesperadas, utilizando o bloco "finally", e que as mensagens de erro sejam claras e informativas para o usuário.
 
 # 3-Documentação dos Requisitos
  Decidimos por usar histórias de usuário com critérios de aceitação para descrever os requisitos do programa de cadastro de eventos de forma mais adequada. Isso se deve à necessidade de detalhar os requisitos apresentados em cada história, permitindo uma compreensão clara das funcionalidades e comportamentos esperados do sistema.
