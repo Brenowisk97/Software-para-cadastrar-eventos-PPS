@@ -94,7 +94,9 @@ Esses fatores nos ajudaram a organizar e acompanhar nosso trabalho de desenvolvi
 ## Referências Bibliográficas 📚
  
 > Slides aula Engenharia de Requisitos; Professora Rebeca Campos Motta.
+> 
 > Slides aula Metologias Ágeis; Professora Rebeca Campos Motta.
+> 
 > https://blog.runrun.it/kanban/
  
  
