@@ -80,5 +80,30 @@ Critérios de Aceitação: O sistema deve fornecer uma funcionalidade que exiba 
 Como gestor de eventos, eu gostaria que os usuários recebessem automaticamente confirmações de compra de ingressos e lembretes sobre os eventos para garantir uma experiência sem problemas.
 Critérios de Aceitação: O sistema deve enviar notificações por e-mail ou mensagem para os usuários após a compra de ingressos e antes do evento programado.
 
+# Organização
+ Para organizar nosso projeto de desenvolvimento de software de forma eficaz, estamos utilizando o método Kanban.  Isso é uma abordagem visual para o gerenciamento de tarefas e fluxos de trabalho que nos permite acompanhar o progresso do projeto de maneira organizada.
+ 
+O nosso quadro Kanban foi feito através do trello e está dividido em colunas que representam diferentes etapas do nosso processo. Deixamos em verde tudo que já havia sido conclúido,  laranja onde estávamos com dificuldade e vermelho o que estava faltando.
+
+Além disso, complementamos nossa organização por meio de mensagens no WhatsApp, onde realizamos atualizações frequentes sobre o andamento do projeto e tiramos dúvidas entre a equipe. Também realizamos chamadas no Discord para discussões mais detalhadas e alinhamento de estratégias. 
+
+Esses fatores nos ajudaram a organizar e acompanhar nosso trabalho de desenvolvimento de software de forma eficiente, garantindo que possamos atender às necessidades da Luizae sua equipe dentro do prazo e com qualidade.
+
+![image](https://github.com/Brenowisk97/Software-para-cadastrar-eventos-PPS/assets/127142664/02f2ec73-ccd1-47f2-b7c5-da2f4405a787)
+
+## Referências Bibliográficas 📚
+ 
+> Slides aula Engenharia de Requisitos; Professora Rebeca Campos Motta.
+> Slides aula Metologias Ágeis; Professora Rebeca Campos Motta.
+> https://blog.runrun.it/kanban/
+ 
+ 
+## Autores
+| Data | Matricula| Matéria | Autor |
+| -- | -- | -- | -- |
+| 14/05/2024 |202301165768  | Ciencia de Dados e Inteligencia Artificial| Beatriz Babinski |
+| 14/05/2024 |202301165768  | Ciencia de Dados e Inteligencia Artificial| Breno |
+
+
 
 
