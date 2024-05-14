@@ -36,7 +36,7 @@ Esta Documentação será atualizada a cada revisão com a stakeholder do Projet
 |06|O programa deve permitir atualizar um evento criado, modificando a data e o local (os demais dados devem ser preservados).|
 |07| Deve ser possível exibir todos os eventos cadastrados, exibindo nome, local e data do evento.|
 |08| O programa deve incluir um calendário  que exiba todos os eventos programados e suas respectivas datas e horários, facilitando a visualização e o planejamento.|
-|08| Os usuários devem receber notificações automáticas sobre eventos importantes, como confirmação de compra de ingressos, e lembretes o quando o evento estiver chegando.|
+|09| Os usuários devem receber notificações automáticas sobre eventos importantes, como confirmação de compra de ingressos, e lembretes o quando o evento estiver chegando.|
 
 
 # Requisitos Não Funcionais
@@ -76,7 +76,7 @@ Critérios de Aceitação: O sistema deve permitir que o usuário selecione o ev
 Como usuário do sistema, eu gostaria de visualizar uma lista de todos os eventos cadastrados, para que eu possa ter uma visão geral completa das atividades.
 Critérios de Aceitação: O sistema deve fornecer uma funcionalidade que exiba todos os eventos cadastrados e a lista de eventos deve ser apresentada de forma clara e organizada, mostrando informações relevantes de cada evento.
 
-# História 6: Notificações automáticas
+# História 7: Notificações automáticas
 Como gestor de eventos, eu gostaria que os usuários recebessem automaticamente confirmações de compra de ingressos e lembretes sobre os eventos para garantir uma experiência sem problemas.
 Critérios de Aceitação: O sistema deve enviar notificações por e-mail ou mensagem para os usuários após a compra de ingressos e antes do evento programado.
 
