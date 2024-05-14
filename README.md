@@ -1,7 +1,13 @@
 # Programa de Cadastro de Eventos-PPS
 # 1-Entendimento do problema e definição do Escopo
-1-Entendimento do problema e definição do Escopo
-Luiza é gerente de uma empresa de eventos que organiza uma variedade de atividades, desde pequenas reuniões corporativas até grandes festivais e shows. Ela está enfrentando dificuldades para acompanhar o gerenciamento de todos os eventos de forma manual. As planilhas estão se tornando confusas e propensas a erros, e a falta de um sistema centralizado está afetando a eficiência das operações. Luiza decidiu procurar um desenvolvedor para criar um programa sob medida que atenda às necessidades específicas de sua empresa. Ela deseja uma solução que permita: Criação e Armazenamento de Eventos, Venda de Ingressos, Busca de Eventos, Atualização e Exclusão de Eventos e Exibição de Eventos.
+
+Luiza é gerente de uma empresa de eventos que abrange uma ampla gama de atividades, desde pequenas reuniões corporativas até grandes festivais e shows. No entanto, ela está enfrentando desafios significativos ao tentar gerenciar manualmente todos esses eventos. As planilhas estão se tornando cada vez mais confusas e propensas a erros, e a falta de um programa eficaz está afetando negativamente a eficiência das operações.
+
+Diante desses obstáculos, Luiza tomou a decisão de procurar um desenvolvedor para criar um programa personalizado que atenda às necessidades específicas de sua empresa. Ela está buscando uma solução abrangente que possibilite a criação e o armazenamento de eventos, a venda de ingressos, a busca por eventos, a atualização e exclusão de eventos, além da exibição de eventos.
+
+Essa solução será essencial para simplificar e agilizar o processo de gerenciamento de eventos, permitindo que Luiza e sua equipe tenham uma visão clara e organizada de todas as atividades planejadas, contribuindo assim para o sucesso contínuo de sua empresa de eventos.
+
+O Software não terá uma interface gráfica, sendo acessado apenas por meio de linhas de comando. Isso significa que todas as interações e operações serão realizadas por meio de comandos de texto, sem uma interface visual.
 
 # Criação e Armazenamento de Eventos
 Luiza quer poder criar e armazenar informações detalhadas sobre cada evento, incluindo data, local, tipo de evento e informações adicionais relevantes.
@@ -20,28 +26,27 @@ Optamos por utilizar a técnica de entrevistar a stakeholder, pois a entrevista 
 Esta Documentação será atualizada a cada revisão com a stakeholder do Projeto(Luiza), o primeiro encontro foi realizado em 16/04/2024 no qual o principal objetivo foi o levantamento dos requisitos do projeto e o próximo está marcado para 30/04/2024 no qual o principal objetivo será a entrega de uma versão útil do programa que possibilitará um feedback do stakeholder para possíveis alterações e melhoras do programa.
 
 # Requisitos Funcionais
-O programa deve permitir a criação de múltiplos eventos.
+||Descrição|
+|----|-------------|
+|01| O programa deve permitir que o usuário consiga criar múltiplos eventos.|
+|02| Os eventos devem ser armazenados durante toda a execução do programa em um arquivo Txt.|
+|03| O programa deve permitir que o usuário consiga vender ingressos.|
+|04| O programa deve permitir a busca de um evento pelo nome.|
+|05| Deve ser possível excluir um evento já criado.|
+|06|O programa deve permitir atualizar um evento criado, modificando a data e o local (os demais dados devem ser preservados).|
+|07| Deve ser possível exibir todos os eventos cadastrados, exibindo nome, local e data do evento.|
+|08| O programa deve incluir um calendário  que exiba todos os eventos programados e suas respectivas datas e horários, facilitando a visualização e o planejamento.|
+|08| Os usuários devem receber notificações automáticas sobre eventos importantes, como confirmação de compra de ingressos, e lembretes o quando o evento estiver chegando.|
 
-Os eventos devem ser armazenados durante toda a execução do programa.
-
-Durante a venda do ingresso, o usuário deve poder escolher o evento desejado.
-
-O programa deve permitir a busca de um evento pelo nome.
-
-Deve ser possível excluir um evento já criado.
-
-programa deve permitir atualizar um evento criado, modificando a data e o local (os demais dados devem ser preservados).
-
-Deve ser possível exibir todos os eventos cadastrados.
 
 # Requisitos Não Funcionais
-O sistema deve ser capaz de lidar eficientemente com um grande volume de eventos e operações, garantindo tempos de resposta rápidos para a criação, atualização, exclusão e exibição de eventos, mesmo em condições de carga elevada.
-
-O tempo de persistência dos dados em arquivo deve ser otimizado, minimizando o impacto no desempenho geral do sistema durante a execução e encerramento do programa.
-
-A interface de texto deve ser responsiva e fluída, proporcionando uma experiência de usuário ágil, mesmo em terminais com recursos limitados.
-
-O tratamento de exceções deve ser eficiente, garantindo que as operações do sistema não sejam prejudicadas por situações de erro inesperadas, e que as mensagens de erro sejam claras e informativas para o usuário.
+||Descrição|
+|----|-------------|
+|01| O sistema deve ser capaz de lidar eficientemente com um grande volume de eventos e operações, garantindo tempos de resposta rápidos para a criação, atualização, exclusão e exibição de eventos, mesmo em condições de carga elevada.|
+|02| O tempo de persistência dos dados em arquivo deve ser otimizado, minimizando o impacto no desempenho geral do sistema durante a execução e encerramento do programa.|
+|03| A interface de texto deve ser responsiva e fluída, proporcionando uma experiência de usuário ágil, mesmo em terminais com recursos limitados.|
+|04| O tratamento de exceções deve ser eficiente, garantindo que as operações do sistema não sejam prejudicadas por situações de erro inesperadas, e que as mensagens de erro sejam claras e informativas para o usuário.|
+|05|O sistema deve ser desenvolvido de forma eficiente em termos de custo, considerando o orçamento disponível para o projeto (R$ 5.000) e minimizando os custos de manutenção e operação ao longo do tempo.|
 
 # 3-Documentação dos Requisitos
  Decidimos por usar histórias de usuário com critérios de aceitação para descrever os requisitos do programa de cadastro de eventos de forma mais adequada. Isso se deve à necessidade de detalhar os requisitos apresentados em cada história, permitindo uma compreensão clara das funcionalidades e comportamentos esperados do sistema.
@@ -49,6 +54,7 @@ O tratamento de exceções deve ser eficiente, garantindo que as operações do 
 # História 1: Criação de Eventos
 Como usuário do sistema, eu gostaria de criar múltiplos eventos, para que eu possa organizar e gerenciar diferentes atividades.
 Critérios de Aceitação: O usuário deve ter a opção de criar um novo evento no sistema, o sistema deve permitir que o usuário insira informações detalhadas sobre o evento, como data, local, tipo de evento e informações adicionais relevantes e após a criação, o evento deve ser armazenado de forma persistente no sistema.
+
 
 # História 2: Venda de Ingressos
 Como usuário do sistema durante a venda de ingressos, eu gostaria de poder escolher o evento desejado, para que eu possa comprar ingressos para eventos específicos.
@@ -69,3 +75,10 @@ Critérios de Aceitação: O sistema deve permitir que o usuário selecione o ev
 # História 6: Exibição de Eventos
 Como usuário do sistema, eu gostaria de visualizar uma lista de todos os eventos cadastrados, para que eu possa ter uma visão geral completa das atividades.
 Critérios de Aceitação: O sistema deve fornecer uma funcionalidade que exiba todos os eventos cadastrados e a lista de eventos deve ser apresentada de forma clara e organizada, mostrando informações relevantes de cada evento.
+
+# História 6: Notificações automáticas
+Como gestor de eventos, eu gostaria que os usuários recebessem automaticamente confirmações de compra de ingressos e lembretes sobre os eventos para garantir uma experiência sem problemas.
+Critérios de Aceitação: O sistema deve enviar notificações por e-mail ou mensagem para os usuários após a compra de ingressos e antes do evento programado.
+
+
+
