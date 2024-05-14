@@ -102,7 +102,7 @@ Esses fatores nos ajudaram a organizar e acompanhar nosso trabalho de desenvolvi
 | Data | Matricula| Matéria | Autor |
 | -- | -- | -- | -- |
 | 14/05/2024 |202301165768  | Ciencia de Dados e Inteligencia Artificial| Beatriz Babinski |
-| 14/05/2024 |202301165768  | Ciencia de Dados e Inteligencia Artificial| Breno |
+| 14/05/2024 |202201037725  | Ciencia de Dados e Inteligencia Artificial| Breno de Souza |
 
 
 
