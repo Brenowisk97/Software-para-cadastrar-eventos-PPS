@@ -92,12 +92,15 @@ Esses fatores nos ajudaram a organizar e acompanhar nosso trabalho de desenvolvi
 ![image](https://github.com/Brenowisk97/Software-para-cadastrar-eventos-PPS/assets/127142664/02f2ec73-ccd1-47f2-b7c5-da2f4405a787)
 
 # MODELO CONCEITUAL
+![image](https://github.com/Brenowisk97/Software-para-cadastrar-eventos-PPS/assets/127142664/11ac332d-cd53-4db4-87a0-37d88e449d8d)
 
 
 # DIAGRAMA DE CLASSES
+![image](https://github.com/Brenowisk97/Software-para-cadastrar-eventos-PPS/assets/127142664/c3a1ba51-f75f-4056-a53b-11cb82a0e540)
 
 
 # DIAGRAMA DE ESTADOS 
+![image](https://github.com/Brenowisk97/Software-para-cadastrar-eventos-PPS/assets/127142664/aea65831-9965-479c-9fa8-102128bb0466)
 
 
 # DIAGRAMA DE CASOS DE USO
