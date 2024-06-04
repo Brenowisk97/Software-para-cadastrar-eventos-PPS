@@ -102,7 +102,7 @@ Esses fatores nos ajudaram a organizar e acompanhar nosso trabalho de desenvolvi
 
 # DIAGRAMA DE CASOS DE USO
 ![Diagrama de Casos de Uso-AC4](https://github.com/Brenowisk97/Software-para-cadastrar-eventos-PPS/assets/127142664/57fffe12-1e9d-4db1-8662-f0f673fe7ed2)
-![Diagrama de Casos de Uso-AC4](https://github.com/Brenowisk97/Software-para-cadastrar-eventos-PPS/assets/127142664/57fffe12-1e9d-4db1-8662-f0f673fe7ed2)
+
 
  
 > Slides aula Engenharia de Requisitos; Professora Rebeca Campos Motta.
