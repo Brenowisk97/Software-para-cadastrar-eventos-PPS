@@ -106,6 +106,9 @@ Esses fatores nos ajudaram a organizar e acompanhar nosso trabalho de desenvolvi
 # DIAGRAMA DE CASOS DE USO
 ![Diagrama de Casos de Uso-AC4](https://github.com/Brenowisk97/Software-para-cadastrar-eventos-PPS/assets/127142664/57fffe12-1e9d-4db1-8662-f0f673fe7ed2)
 
+# DIAGRAMA DE PACOTES
+![image](https://github.com/Brenowisk97/Software-para-cadastrar-eventos-PPS/assets/105371282/54926994-11af-40bb-b494-8dcb2bbc7a9c)
+
 
 # REFERÊNCIAS BIBLIOGRÁFICAS
 
